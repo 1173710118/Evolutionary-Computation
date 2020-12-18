@@ -1,0 +1,11 @@
+mutation
+1.insert 插到前一个的后面
+2.swap 交换两个位置
+3.inversion 将一个子串倒置
+4.scramble 将子串重新随机排列
+
+crossover
+5.order 从P1中选取一个子串，从p2中把剩下的按照在p2中的顺序添加到后代中
+6.PMX
+7.cycle
+8.edge
